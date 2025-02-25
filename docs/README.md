@@ -9,7 +9,7 @@
     - 技術: HTML 1.1, CGI, Web APIサーバ, Go言語, docker, docker-compose
 
 
-## 2025/02/025
+## 2025/02/25
 
 - [厳選UNIXコマンド 第2版](selected-unix-commands.2.0.0.pdf)
     - **レビュー済み**
