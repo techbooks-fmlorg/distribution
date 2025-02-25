@@ -7,7 +7,7 @@
    - 3年生の授業で用いるコマンドだけに絞ってあります(総計36コマンド)。
      いわゆる「カリカリにチューン」された内容です
    - 授業で出てこなくても知っておいた方が良い知識やオプション等が執筆者と監修者の判断で少し追加されています
-   - https://selected-unix-commands.techbooks.fml.org/
+   - [home page](https://selected-unix-commands.techbooks.fml.org/)
 
 
 - [ITインフラ演習環境 hands-on-base 0.3.0 の設計と実装](hands-on-base-setup.0.3.0.pdf)
